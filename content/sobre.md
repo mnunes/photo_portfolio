@@ -7,7 +7,9 @@ menu:
     weight: 90
 ---
 
-Sou Marcus Nunes, professor do [Departamento de Estatística da UFRN](http://www.estatistica.ccet.ufrn.br/). Leciono disciplinas de estatística para os alunos do Bacharelado em Estatística e outros curso. Minhas disciplinas preferidas são [Introdução à Modelagem de Big Data](https://introbigdata.org/), Métodos Estatísticos e Estatística Descritiva.
+Sou Marcus Nunes, professor do [Departamento de Estatística da UFRN](http://www.estatistica.ccet.ufrn.br/). Leciono disciplinas de estatística para os alunos do Bacharelado em Estatística e outros cursos da universidade. [Meu site pessoal](https://marcusnunes.me) traz mais informações sobre minha carreira profissional.
 
-Criei este portfólio para compartilhar meu trabalho fotográfico autoral em uma plataforma mais organizada do que meu [perfil no Instagram](https://www.instagram.com/grandeabobora/). Com este site consigo ter controle total sobre como armazenar e apresentar as minhas fotos.
+A fotografia é a minha forma de contar histórias e me expressar artisticamente. É um projeto contínuo para documentar o mundo à minha volta. Nele busco construir narrativas visuais que transmitam emoção e impacto estético. 
+
+Muitas dessas fotos já foram compartilhadas em meu [perfil no Instagram](https://www.instagram.com/grandeabobora/). Entretanto, aqui consigo compartilhá-las de forma mais estruturada, com total controle sobre a sua curadoria, organização, qualidade dos arquivos e narrativa.
 
