@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+#title = 'Teste'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+
+[security.exec]
+osEnv = ['.*']
+
+[params]
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/grandeabobora"
+    email = "mailto:marcus.nunes@gmail.com"
+
+

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcus Nunes on Portfólio</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Marcus Nunes on Portfólio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>marcus.nunes@gmail.com (Marcus Nunes)</managingEditor>
+    <webMaster>marcus.nunes@gmail.com (Marcus Nunes)</webMaster>
+    <copyright>© Marcus Nunes</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimentações</title>
+      <link>https://example.org/experimentacoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/experimentacoes/</guid>
+        <media:content url="https://example.org/experimentacoes/capa_hu_353459a3513bcd6e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/experimentacoes/capa_hu_353459a3513bcd6e.jpg&quot; /&gt;
+          &lt;p&gt;Fotografias não-usuais que podem ter dado certo ou não.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mendoza (2025)</title>
+      <link>https://example.org/paisagem/mendoza/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/mendoza/</guid>
+        <media:content url="https://example.org/paisagem/mendoza/01_hu_5eb93c180e05230d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/mendoza/01_hu_5eb93c180e05230d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mendoza (2025)</title>
+      <link>https://example.org/street/mendoza/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/mendoza/</guid>
+        <media:content url="https://example.org/street/mendoza/01_hu_143602b4927f4379.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/mendoza/01_hu_143602b4927f4379.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Natal (2024)</title>
+      <link>https://example.org/street/natal_2024/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/natal_2024/</guid>
+        <media:content url="https://example.org/street/natal_2024/01_hu_336c41741c81baa7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/natal_2024/01_hu_336c41741c81baa7.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Natal (2023)</title>
+      <link>https://example.org/street/natal_2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/natal_2023/</guid>
+        <media:content url="https://example.org/street/natal_2023/01_hu_d1365b7c64f01804.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/natal_2023/01_hu_d1365b7c64f01804.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Buenos Aires (2022)</title>
+      <link>https://example.org/street/buenos_aires/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/buenos_aires/</guid>
+        <media:content url="https://example.org/street/buenos_aires/01_hu_d1b3e1fc4b1356c6.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/buenos_aires/01_hu_d1b3e1fc4b1356c6.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Currais Novos (2022)</title>
+      <link>https://example.org/paisagem/currais_novos/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/currais_novos/</guid>
+        <media:content url="https://example.org/paisagem/currais_novos/01_hu_7d743d865dd9649d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/currais_novos/01_hu_7d743d865dd9649d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Accra (2022)</title>
+      <link>https://example.org/street/accra/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/accra/</guid>
+        <media:content url="https://example.org/street/accra/01_hu_9a5c2014dff4cfe.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/accra/01_hu_9a5c2014dff4cfe.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ushuaia (2022)</title>
+      <link>https://example.org/paisagem/ushuaia/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/ushuaia/</guid>
+        <media:content url="https://example.org/paisagem/ushuaia/01_hu_79b8ba880790f518.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/ushuaia/01_hu_79b8ba880790f518.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ushuaia (2022)</title>
+      <link>https://example.org/street/ushuaia/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/ushuaia/</guid>
+        <media:content url="https://example.org/street/ushuaia/01_hu_d4ba9c60f09b830f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/ushuaia/01_hu_d4ba9c60f09b830f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Natal (2022)</title>
+      <link>https://example.org/paisagem/natal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/natal/</guid>
+        <media:content url="https://example.org/paisagem/natal/01_hu_a8c6361dd9bfd550.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/natal/01_hu_a8c6361dd9bfd550.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Natal (2021)</title>
+      <link>https://example.org/street/natal_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/natal_2021/</guid>
+        <media:content url="https://example.org/street/natal_2021/01_hu_a67aec97fb447164.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/natal_2021/01_hu_a67aec97fb447164.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Pipa (2020, 2021)</title>
+      <link>https://example.org/paisagem/pipa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/pipa/</guid>
+        <media:content url="https://example.org/paisagem/pipa/01_hu_1f34b62396c4bee9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/pipa/01_hu_1f34b62396c4bee9.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Galinhos (2020)</title>
+      <link>https://example.org/paisagem/galinhos/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/galinhos/</guid>
+        <media:content url="https://example.org/paisagem/galinhos/01_hu_56ebb1128b25f8f8.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/galinhos/01_hu_56ebb1128b25f8f8.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Sintra (2020)</title>
+      <link>https://example.org/street/sintra/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/sintra/</guid>
+        <media:content url="https://example.org/street/sintra/01_hu_6be679e9601d8661.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/sintra/01_hu_6be679e9601d8661.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Lisboa (2020)</title>
+      <link>https://example.org/street/lisboa/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/lisboa/</guid>
+        <media:content url="https://example.org/street/lisboa/01_hu_f0fd23fa7d93f52a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/lisboa/01_hu_f0fd23fa7d93f52a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Palermo (2020)</title>
+      <link>https://example.org/street/palermo/modelo/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/palermo/modelo/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Siracusa (2020)</title>
+      <link>https://example.org/street/siracusa/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/siracusa/</guid>
+        <media:content url="https://example.org/street/siracusa/01_hu_fa4afae33ec1740d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/siracusa/01_hu_fa4afae33ec1740d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Etna (2020)</title>
+      <link>https://example.org/paisagem/etna/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/etna/</guid>
+        <media:content url="https://example.org/paisagem/etna/01_hu_f3acc7ecd4de6e9a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/etna/01_hu_f3acc7ecd4de6e9a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Catania (2020)</title>
+      <link>https://example.org/street/catania/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/catania/</guid>
+        <media:content url="https://example.org/street/catania/01_hu_b5ac17c8d704e98e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/catania/01_hu_b5ac17c8d704e98e.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Pompeia (2020)</title>
+      <link>https://example.org/street/pompeia/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/pompeia/</guid>
+        <media:content url="https://example.org/street/pompeia/01_hu_cadd31fd26fa255f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/pompeia/01_hu_cadd31fd26fa255f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nápoles (2020)</title>
+      <link>https://example.org/street/napoles/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/napoles/</guid>
+        <media:content url="https://example.org/street/napoles/01_hu_9a8cf839bb5db964.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/napoles/01_hu_9a8cf839bb5db964.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Roma (2020)</title>
+      <link>https://example.org/street/roma/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/roma/</guid>
+        <media:content url="https://example.org/street/roma/00_hu_67c54a9fca247a43.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/roma/00_hu_67c54a9fca247a43.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Florença (2020)</title>
+      <link>https://example.org/street/florenca/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/florenca/</guid>
+        <media:content url="https://example.org/street/florenca/01_hu_e5155dee4e11b7c9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/florenca/01_hu_e5155dee4e11b7c9.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Agrigento (2020)</title>
+      <link>https://example.org/paisagem/agrigento/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/agrigento/</guid>
+        <media:content url="https://example.org/paisagem/agrigento/01_hu_4a26fdbfe5778f19.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/agrigento/01_hu_4a26fdbfe5778f19.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Veneza (2019)</title>
+      <link>https://example.org/street/veneza/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/veneza/</guid>
+        <media:content url="https://example.org/street/veneza/01_hu_7aa70eab6e27ac0f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/veneza/01_hu_7aa70eab6e27ac0f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Kuala Lumpur (2019)</title>
+      <link>https://example.org/paisagem/kuala_lumpur/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/kuala_lumpur/</guid>
+        <media:content url="https://example.org/paisagem/kuala_lumpur/01_hu_e9941d021600bf3b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/kuala_lumpur/01_hu_e9941d021600bf3b.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Kuala Lumpur (2019)</title>
+      <link>https://example.org/street/kuala_lumpur/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/kuala_lumpur/</guid>
+        <media:content url="https://example.org/street/kuala_lumpur/01_hu_2b8ba78b43c003c3.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/kuala_lumpur/01_hu_2b8ba78b43c003c3.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Salvador (2019)</title>
+      <link>https://example.org/paisagem/salvador/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/salvador/</guid>
+        <media:content url="https://example.org/paisagem/salvador/01_hu_21a41ce46cf006f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/salvador/01_hu_21a41ce46cf006f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>São Miguel do Gostoso (2019)</title>
+      <link>https://example.org/paisagem/sao_miguel_do_gostoso/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/sao_miguel_do_gostoso/</guid>
+        <media:content url="https://example.org/paisagem/sao_miguel_do_gostoso/01_hu_755cdfaa56af11df.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/sao_miguel_do_gostoso/01_hu_755cdfaa56af11df.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>São Raimundo Nonato (2019)</title>
+      <link>https://example.org/paisagem/_modelo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/_modelo/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>São Raimundo Nonato (2019)</title>
+      <link>https://example.org/paisagem/sao_raimundo_nonato/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/sao_raimundo_nonato/</guid>
+        <media:content url="https://example.org/paisagem/sao_raimundo_nonato/01_hu_65fa5ef92df60f6f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/sao_raimundo_nonato/01_hu_65fa5ef92df60f6f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Natal (2018)</title>
+      <link>https://example.org/street/natal/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/natal/</guid>
+        <media:content url="https://example.org/street/natal/01_hu_d18e8cfd5c4c731d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/natal/01_hu_d18e8cfd5c4c731d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Tramandaí (2018)</title>
+      <link>https://example.org/street/tramandai/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/tramandai/</guid>
+        <media:content url="https://example.org/street/tramandai/01_hu_65d125ea526ee259.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/tramandai/01_hu_65d125ea526ee259.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Serra de São Bento (2018)</title>
+      <link>https://example.org/paisagem/serra_de_sao_bento/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/serra_de_sao_bento/</guid>
+        <media:content url="https://example.org/paisagem/serra_de_sao_bento/01_hu_ce2b6fd80b3b84cc.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/serra_de_sao_bento/01_hu_ce2b6fd80b3b84cc.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Toledo (2018)</title>
+      <link>https://example.org/street/toledo/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/toledo/</guid>
+        <media:content url="https://example.org/street/toledo/01_hu_8e6b63780ef873b9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/toledo/01_hu_8e6b63780ef873b9.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Barcelona (2018)</title>
+      <link>https://example.org/street/barcelona/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/barcelona/</guid>
+        <media:content url="https://example.org/street/barcelona/01_hu_ced1d892195edb42.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/barcelona/01_hu_ced1d892195edb42.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Granada (2018)</title>
+      <link>https://example.org/street/granada/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/granada/</guid>
+        <media:content url="https://example.org/street/granada/01_hu_80963e15ea2e0ce9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/granada/01_hu_80963e15ea2e0ce9.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ronda (2018)</title>
+      <link>https://example.org/street/ronda/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/ronda/</guid>
+        <media:content url="https://example.org/street/ronda/01_hu_704a1cf394e8cfc2.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/ronda/01_hu_704a1cf394e8cfc2.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Vejer de la Frontera (2018)</title>
+      <link>https://example.org/street/vejer_de_la_frontera/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/vejer_de_la_frontera/</guid>
+        <media:content url="https://example.org/street/vejer_de_la_frontera/01_hu_8f61ba872fb81311.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/vejer_de_la_frontera/01_hu_8f61ba872fb81311.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Sevilha (2018)</title>
+      <link>https://example.org/street/sevilha/_modelo/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/sevilha/_modelo/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Segóvia (2018)</title>
+      <link>https://example.org/street/segovia/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/segovia/</guid>
+        <media:content url="https://example.org/street/segovia/01_hu_1b3219058eaf68e0.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/segovia/01_hu_1b3219058eaf68e0.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Madri (2018)</title>
+      <link>https://example.org/street/_modelo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/_modelo/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Madri (2018)</title>
+      <link>https://example.org/street/madri/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/madri/</guid>
+        <media:content url="https://example.org/street/madri/01_hu_cf605de9fc0557de.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/madri/01_hu_cf605de9fc0557de.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nova Iorque (2010)</title>
+      <link>https://example.org/street/nova_iorque_2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/nova_iorque_2010/</guid>
+        <media:content url="https://example.org/street/nova_iorque_2010/01_hu_a3660847eea5ff6a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/nova_iorque_2010/01_hu_a3660847eea5ff6a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Grand Canyon (2009)</title>
+      <link>https://example.org/paisagem/grand_canyon/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/paisagem/grand_canyon/</guid>
+        <media:content url="https://example.org/paisagem/grand_canyon/01_hu_52a57929d1b36531.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/paisagem/grand_canyon/01_hu_52a57929d1b36531.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Las Vegas (2009)</title>
+      <link>https://example.org/street/las_vegas/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/las_vegas/</guid>
+        <media:content url="https://example.org/street/las_vegas/01_hu_53f47b7aefa1447a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/las_vegas/01_hu_53f47b7aefa1447a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>State College (2009)</title>
+      <link>https://example.org/street/state_college_2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/state_college_2009/</guid>
+        <media:content url="https://example.org/street/state_college_2009/01_hu_e8d9f579aade0879.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/state_college_2009/01_hu_e8d9f579aade0879.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>São Leopoldo (2009)</title>
+      <link>https://example.org/street/sao_leopoldo/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/sao_leopoldo/</guid>
+        <media:content url="https://example.org/street/sao_leopoldo/01_hu_c01c180286d0157c.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/sao_leopoldo/01_hu_c01c180286d0157c.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nova Iorque (2009)</title>
+      <link>https://example.org/street/nova_iorque/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/nova_iorque/</guid>
+        <media:content url="https://example.org/street/nova_iorque/01_hu_56a373fd4781298b.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/nova_iorque/01_hu_56a373fd4781298b.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>State College (2008)</title>
+      <link>https://example.org/street/state_college/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/state_college/</guid>
+        <media:content url="https://example.org/street/state_college/01_hu_3a3985abdfcd62f3.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/state_college/01_hu_3a3985abdfcd62f3.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Portland (2008)</title>
+      <link>https://example.org/street/portland/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/portland/</guid>
+        <media:content url="https://example.org/street/portland/01_hu_e33e31eb124827d8.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/portland/01_hu_e33e31eb124827d8.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
