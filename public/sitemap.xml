@@ -6,12 +6,21 @@
     <lastmod>2025-01-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/street/</loc>
-    <lastmod>2025-01-01T00:00:00-03:00</lastmod>
+    <lastmod>2025-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/experimentacoes/</loc>
+    <loc>https://example.org/exposicoes/</loc>
+    <lastmod>2025-10-30T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/experimentacoes/</loc>
   </url><url>
     <loc>https://example.org/</loc>
-    <lastmod>2025-01-01T00:00:00-03:00</lastmod>
+    <lastmod>2025-12-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/street/santiago/</loc>
+    <lastmod>2025-12-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/exposicoes/2025_mendoza/</loc>
+    <lastmod>2025-10-30T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/paisagem/mendoza/</loc>
     <lastmod>2025-01-01T00:00:00-03:00</lastmod>
@@ -29,6 +38,9 @@
     <lastmod>2022-07-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/paisagem/currais_novos/</loc>
+    <lastmod>2022-06-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/exposicoes/2022_natal/</loc>
     <lastmod>2022-06-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/street/accra/</loc>
@@ -100,11 +112,17 @@
     <loc>https://example.org/paisagem/sao_miguel_do_gostoso/</loc>
     <lastmod>2019-07-01T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>https://example.org/exposicoes/_modelo/</loc>
+    <lastmod>2019-01-01T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://example.org/paisagem/_modelo/</loc>
     <lastmod>2019-01-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/paisagem/sao_raimundo_nonato/</loc>
     <lastmod>2019-01-01T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://example.org/exposicoes/2018_natal/</loc>
+    <lastmod>2018-10-01T00:00:00-03:00</lastmod>
   </url><url>
     <loc>https://example.org/street/natal/</loc>
     <lastmod>2018-07-01T00:00:00-03:00</lastmod>

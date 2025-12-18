@@ -9,16 +9,36 @@
     <managingEditor>marcus.nunes@gmail.com (Marcus Nunes)</managingEditor>
     <webMaster>marcus.nunes@gmail.com (Marcus Nunes)</webMaster>
     <copyright>© Marcus Nunes</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experimentações</title>
-      <link>https://example.org/experimentacoes/</link>
+      <link>https://example.org/categories/experimentacoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>https://example.org/experimentacoes/</guid>
-        <media:content url="https://example.org/experimentacoes/capa_hu_353459a3513bcd6e.jpg" type="image/jpeg"/>
+      <guid>https://example.org/categories/experimentacoes/</guid>
+        <media:content url="https://example.org/categories/experimentacoes/capa_hu_353459a3513bcd6e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/experimentacoes/capa_hu_353459a3513bcd6e.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/categories/experimentacoes/capa_hu_353459a3513bcd6e.jpg&quot; /&gt;
           &lt;p&gt;Fotografias não-usuais que podem ter dado certo ou não.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Santiago (2025)</title>
+      <link>https://example.org/street/santiago/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/street/santiago/</guid>
+        <media:content url="https://example.org/street/santiago/01_hu_2f8767c07b804b12.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/street/santiago/01_hu_2f8767c07b804b12.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mostra Fotográfica (Mendoza, 2025)</title>
+      <link>https://example.org/exposicoes/2025_mendoza/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/exposicoes/2025_mendoza/</guid>
+        <media:content url="https://example.org/exposicoes/2025_mendoza/01_hu_5eb93c180e05230d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/exposicoes/2025_mendoza/01_hu_5eb93c180e05230d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mendoza (2025)</title>
@@ -79,6 +99,16 @@
         <description>
           &lt;img src=&quot;https://example.org/paisagem/currais_novos/01_hu_7d743d865dd9649d.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Mostra Refúgios (Natal, 2022)</title>
+      <link>https://example.org/exposicoes/2022_natal/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/exposicoes/2022_natal/</guid>
+        <media:content url="https://example.org/exposicoes/2022_natal/ImensidaoEspacial_hu_dd9374726dd3d3bc.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/exposicoes/2022_natal/ImensidaoEspacial_hu_dd9374726dd3d3bc.jpg&quot; /&gt;
+          &lt;p&gt;C[lique para baixar o catálogo](catalogo_refugios.pdf)&lt;/p&gt;
         </description></item>
     <item>
       <title>Accra (2022)</title>
@@ -307,6 +337,11 @@
         </description></item>
     <item>
       <title>São Raimundo Nonato (2019)</title>
+      <link>https://example.org/exposicoes/_modelo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/exposicoes/_modelo/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>São Raimundo Nonato (2019)</title>
       <link>https://example.org/paisagem/_modelo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
       <guid>https://example.org/paisagem/_modelo/</guid><description>&lt;no value&gt;</description></item>
@@ -319,6 +354,16 @@
         <description>
           &lt;img src=&quot;https://example.org/paisagem/sao_raimundo_nonato/01_hu_65fa5ef92df60f6f.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bazar Duas - Crônica Falada (Natal, 2018)</title>
+      <link>https://example.org/exposicoes/2018_natal/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
+      <guid>https://example.org/exposicoes/2018_natal/</guid>
+        <media:content url="https://example.org/exposicoes/2018_natal/01_hu_11b9ebc3164ade7.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/exposicoes/2018_natal/01_hu_11b9ebc3164ade7.jpg&quot; /&gt;
+          &lt;p&gt;C[lique para baixar o catálogo](Duas_2018.pdf)&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2018)</title>
