@@ -2,192 +2,189 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/paisagem/</loc>
+    <loc>http://localhost:1313/paisagem/</loc>
     <lastmod>2025-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/</loc>
+    <loc>http://localhost:1313/street/</loc>
     <lastmod>2025-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/exposicoes/</loc>
+    <loc>http://localhost:1313/exposicoes/</loc>
     <lastmod>2025-10-30T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/experimentacoes/</loc>
+    <loc>http://localhost:1313/categories/experimentacoes/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/santiago/</loc>
+    <loc>http://localhost:1313/street/santiago/</loc>
     <lastmod>2025-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/exposicoes/2025_mendoza/</loc>
+    <loc>http://localhost:1313/exposicoes/2025_mendoza/</loc>
     <lastmod>2025-10-30T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/mendoza/</loc>
+    <loc>http://localhost:1313/paisagem/mendoza/</loc>
     <lastmod>2025-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/mendoza/</loc>
+    <loc>http://localhost:1313/street/mendoza/</loc>
     <lastmod>2025-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/natal_2024/</loc>
+    <loc>http://localhost:1313/street/natal_2024/</loc>
     <lastmod>2024-04-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/natal_2023/</loc>
+    <loc>http://localhost:1313/street/natal_2023/</loc>
     <lastmod>2023-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/buenos_aires/</loc>
+    <loc>http://localhost:1313/street/buenos_aires/</loc>
     <lastmod>2022-07-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/currais_novos/</loc>
+    <loc>http://localhost:1313/paisagem/currais_novos/</loc>
     <lastmod>2022-06-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/exposicoes/2022_natal/</loc>
+    <loc>http://localhost:1313/exposicoes/2022_natal/</loc>
     <lastmod>2022-06-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/accra/</loc>
+    <loc>http://localhost:1313/street/accra/</loc>
     <lastmod>2022-05-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/ushuaia/</loc>
+    <loc>http://localhost:1313/paisagem/ushuaia/</loc>
     <lastmod>2022-03-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/ushuaia/</loc>
+    <loc>http://localhost:1313/street/ushuaia/</loc>
     <lastmod>2022-03-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/natal/</loc>
+    <loc>http://localhost:1313/paisagem/natal/</loc>
     <lastmod>2022-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/natal_2021/</loc>
+    <loc>http://localhost:1313/street/natal_2021/</loc>
     <lastmod>2021-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/pipa/</loc>
+    <loc>http://localhost:1313/paisagem/pipa/</loc>
     <lastmod>2021-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/galinhos/</loc>
+    <loc>http://localhost:1313/paisagem/galinhos/</loc>
     <lastmod>2020-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/sintra/</loc>
+    <loc>http://localhost:1313/street/sintra/</loc>
     <lastmod>2020-01-12T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/lisboa/</loc>
+    <loc>http://localhost:1313/street/lisboa/</loc>
     <lastmod>2020-01-11T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/palermo/modelo/</loc>
+    <loc>http://localhost:1313/street/palermo/modelo/</loc>
     <lastmod>2020-01-10T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/siracusa/</loc>
+    <loc>http://localhost:1313/street/siracusa/</loc>
     <lastmod>2020-01-08T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/etna/</loc>
+    <loc>http://localhost:1313/paisagem/etna/</loc>
     <lastmod>2020-01-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/catania/</loc>
+    <loc>http://localhost:1313/street/catania/</loc>
     <lastmod>2020-01-06T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/pompeia/</loc>
+    <loc>http://localhost:1313/street/pompeia/</loc>
     <lastmod>2020-01-05T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/napoles/</loc>
+    <loc>http://localhost:1313/street/napoles/</loc>
     <lastmod>2020-01-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/roma/</loc>
+    <loc>http://localhost:1313/street/roma/</loc>
     <lastmod>2020-01-03T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/florenca/</loc>
+    <loc>http://localhost:1313/street/florenca/</loc>
     <lastmod>2020-01-02T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/agrigento/</loc>
+    <loc>http://localhost:1313/paisagem/agrigento/</loc>
     <lastmod>2020-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/veneza/</loc>
+    <loc>http://localhost:1313/street/veneza/</loc>
     <lastmod>2019-12-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/kuala_lumpur/</loc>
+    <loc>http://localhost:1313/paisagem/kuala_lumpur/</loc>
     <lastmod>2019-10-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/kuala_lumpur/</loc>
+    <loc>http://localhost:1313/street/kuala_lumpur/</loc>
     <lastmod>2019-10-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/salvador/</loc>
+    <loc>http://localhost:1313/paisagem/salvador/</loc>
     <lastmod>2019-09-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/sao_miguel_do_gostoso/</loc>
+    <loc>http://localhost:1313/paisagem/sao_miguel_do_gostoso/</loc>
     <lastmod>2019-07-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/exposicoes/_modelo/</loc>
+    <loc>http://localhost:1313/paisagem/_modelo/</loc>
     <lastmod>2019-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/_modelo/</loc>
+    <loc>http://localhost:1313/paisagem/sao_raimundo_nonato/</loc>
     <lastmod>2019-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/sao_raimundo_nonato/</loc>
-    <lastmod>2019-01-01T00:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://example.org/exposicoes/2018_natal/</loc>
+    <loc>http://localhost:1313/exposicoes/2018_natal/</loc>
     <lastmod>2018-10-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/natal/</loc>
+    <loc>http://localhost:1313/street/natal/</loc>
     <lastmod>2018-07-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/tramandai/</loc>
+    <loc>http://localhost:1313/street/tramandai/</loc>
     <lastmod>2018-06-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/serra_de_sao_bento/</loc>
+    <loc>http://localhost:1313/paisagem/serra_de_sao_bento/</loc>
     <lastmod>2018-02-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/toledo/</loc>
+    <loc>http://localhost:1313/street/toledo/</loc>
     <lastmod>2018-01-08T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/barcelona/</loc>
+    <loc>http://localhost:1313/street/barcelona/</loc>
     <lastmod>2018-01-07T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/granada/</loc>
+    <loc>http://localhost:1313/street/granada/</loc>
     <lastmod>2018-01-06T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/ronda/</loc>
+    <loc>http://localhost:1313/street/ronda/</loc>
     <lastmod>2018-01-05T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/vejer_de_la_frontera/</loc>
+    <loc>http://localhost:1313/street/vejer_de_la_frontera/</loc>
     <lastmod>2018-01-04T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/sevilha/_modelo/</loc>
+    <loc>http://localhost:1313/street/sevilha/_modelo/</loc>
     <lastmod>2018-01-03T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/segovia/</loc>
+    <loc>http://localhost:1313/street/segovia/</loc>
     <lastmod>2018-01-02T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/_modelo/</loc>
+    <loc>http://localhost:1313/street/_modelo/</loc>
     <lastmod>2018-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/madri/</loc>
+    <loc>http://localhost:1313/street/madri/</loc>
     <lastmod>2018-01-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/nova_iorque_2010/</loc>
+    <loc>http://localhost:1313/street/nova_iorque_2010/</loc>
     <lastmod>2010-03-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/paisagem/grand_canyon/</loc>
+    <loc>http://localhost:1313/paisagem/grand_canyon/</loc>
     <lastmod>2009-11-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/las_vegas/</loc>
+    <loc>http://localhost:1313/street/las_vegas/</loc>
     <lastmod>2009-11-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/state_college_2009/</loc>
+    <loc>http://localhost:1313/street/state_college_2009/</loc>
     <lastmod>2009-08-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/sao_leopoldo/</loc>
+    <loc>http://localhost:1313/street/sao_leopoldo/</loc>
     <lastmod>2009-05-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/nova_iorque/</loc>
+    <loc>http://localhost:1313/street/nova_iorque/</loc>
     <lastmod>2009-03-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/state_college/</loc>
+    <loc>http://localhost:1313/street/state_college/</loc>
     <lastmod>2008-08-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/street/portland/</loc>
+    <loc>http://localhost:1313/street/portland/</loc>
     <lastmod>2008-07-01T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/sobre/</loc>
+    <loc>http://localhost:1313/sobre/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
