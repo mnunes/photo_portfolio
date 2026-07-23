@@ -2,552 +2,542 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcus Nunes on Portfólio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Marcus Nunes on Portfólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>marcus.nunes@gmail.com (Marcus Nunes)</managingEditor>
     <webMaster>marcus.nunes@gmail.com (Marcus Nunes)</webMaster>
     <copyright>© Marcus Nunes</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Experimentações</title>
-      <link>http://localhost:1313/categories/experimentacoes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/categories/experimentacoes/</guid>
-        <media:content url="http://localhost:1313/categories/experimentacoes/capa_hu_ab5c7295520e3f06.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/categories/experimentacoes/capa_hu_ab5c7295520e3f06.jpg&quot; /&gt;
-          &lt;p&gt;Fotografias não-usuais que podem ter dado certo ou não.&lt;/p&gt;
-        </description></item>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Santiago (2025)</title>
-      <link>http://localhost:1313/street/santiago/</link>
+      <link>https://example.org/street/santiago/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/santiago/</guid>
-        <media:content url="http://localhost:1313/street/santiago/01_hu_579a4553ca24e646.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/santiago/</guid>
+        <media:content url="https://example.org/street/santiago/01_hu_f46218094c54a0eb.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/santiago/01_hu_579a4553ca24e646.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/santiago/01_hu_f46218094c54a0eb.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mostra Fotográfica (Mendoza, 2025)</title>
-      <link>http://localhost:1313/exposicoes/2025_mendoza/</link>
+      <link>https://example.org/exposicoes/2025_mendoza/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/exposicoes/2025_mendoza/</guid>
-        <media:content url="http://localhost:1313/exposicoes/2025_mendoza/01_hu_c0edcd6ea1d1e8d.jpg" type="image/jpeg"/>
+      <guid>https://example.org/exposicoes/2025_mendoza/</guid>
+        <media:content url="https://example.org/exposicoes/2025_mendoza/01_hu_2297bee50de5498e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/exposicoes/2025_mendoza/01_hu_c0edcd6ea1d1e8d.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/exposicoes/2025_mendoza/01_hu_2297bee50de5498e.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mendoza (2025)</title>
-      <link>http://localhost:1313/paisagem/mendoza/</link>
+      <link>https://example.org/paisagem/mendoza/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/mendoza/</guid>
-        <media:content url="http://localhost:1313/paisagem/mendoza/01_hu_c0edcd6ea1d1e8d.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/mendoza/</guid>
+        <media:content url="https://example.org/paisagem/mendoza/01_hu_2297bee50de5498e.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/mendoza/01_hu_c0edcd6ea1d1e8d.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/mendoza/01_hu_2297bee50de5498e.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mendoza (2025)</title>
-      <link>http://localhost:1313/street/mendoza/</link>
+      <link>https://example.org/street/mendoza/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/mendoza/</guid>
-        <media:content url="http://localhost:1313/street/mendoza/01_hu_bae373910f958a00.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/mendoza/</guid>
+        <media:content url="https://example.org/street/mendoza/01_hu_b474645e19f015a9.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/mendoza/01_hu_bae373910f958a00.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/mendoza/01_hu_b474645e19f015a9.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2024)</title>
-      <link>http://localhost:1313/street/natal_2024/</link>
+      <link>https://example.org/street/natal_2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/natal_2024/</guid>
-        <media:content url="http://localhost:1313/street/natal_2024/01_hu_f27a33e18c512d25.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/natal_2024/</guid>
+        <media:content url="https://example.org/street/natal_2024/01_hu_fca2ec0a9ca96cf.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/natal_2024/01_hu_f27a33e18c512d25.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/natal_2024/01_hu_fca2ec0a9ca96cf.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2023)</title>
-      <link>http://localhost:1313/street/natal_2023/</link>
+      <link>https://example.org/street/natal_2023/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/natal_2023/</guid>
-        <media:content url="http://localhost:1313/street/natal_2023/01_hu_3cefee2673c5d8c4.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/natal_2023/</guid>
+        <media:content url="https://example.org/street/natal_2023/01_hu_9b29a47c2e8f4600.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/natal_2023/01_hu_3cefee2673c5d8c4.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/natal_2023/01_hu_9b29a47c2e8f4600.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Buenos Aires (2022)</title>
-      <link>http://localhost:1313/street/buenos_aires/</link>
+      <link>https://example.org/street/buenos_aires/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/buenos_aires/</guid>
-        <media:content url="http://localhost:1313/street/buenos_aires/01_hu_4d6398c1b2e54b82.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/buenos_aires/</guid>
+        <media:content url="https://example.org/street/buenos_aires/01_hu_8df0ce9ba32c8eb8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/buenos_aires/01_hu_4d6398c1b2e54b82.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/buenos_aires/01_hu_8df0ce9ba32c8eb8.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Currais Novos (2022)</title>
-      <link>http://localhost:1313/paisagem/currais_novos/</link>
+      <link>https://example.org/paisagem/currais_novos/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/currais_novos/</guid>
-        <media:content url="http://localhost:1313/paisagem/currais_novos/01_hu_a10966def48e0d6b.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/currais_novos/</guid>
+        <media:content url="https://example.org/paisagem/currais_novos/01_hu_b62c99dd891a4383.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/currais_novos/01_hu_a10966def48e0d6b.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/currais_novos/01_hu_b62c99dd891a4383.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Mostra Refúgios (Natal, 2022)</title>
-      <link>http://localhost:1313/exposicoes/2022_natal/</link>
+      <link>https://example.org/exposicoes/2022_natal/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/exposicoes/2022_natal/</guid>
-        <media:content url="http://localhost:1313/exposicoes/2022_natal/ImensidaoEspacial_hu_17c8ed76f68545c3.jpg" type="image/jpeg"/>
+      <guid>https://example.org/exposicoes/2022_natal/</guid>
+        <media:content url="https://example.org/exposicoes/2022_natal/ImensidaoEspacial_hu_a914062056772b51.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/exposicoes/2022_natal/ImensidaoEspacial_hu_17c8ed76f68545c3.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/exposicoes/2022_natal/ImensidaoEspacial_hu_a914062056772b51.jpg&quot; /&gt;
           &lt;p&gt;C[lique para baixar o catálogo](catalogo_refugios.pdf)&lt;/p&gt;
         </description></item>
     <item>
       <title>Accra (2022)</title>
-      <link>http://localhost:1313/street/accra/</link>
+      <link>https://example.org/street/accra/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/accra/</guid>
-        <media:content url="http://localhost:1313/street/accra/01_hu_b043a7b38d67a554.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/accra/</guid>
+        <media:content url="https://example.org/street/accra/01_hu_18d9aac7e72585fb.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/accra/01_hu_b043a7b38d67a554.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/accra/01_hu_18d9aac7e72585fb.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Ushuaia (2022)</title>
-      <link>http://localhost:1313/paisagem/ushuaia/</link>
+      <link>https://example.org/paisagem/ushuaia/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/ushuaia/</guid>
-        <media:content url="http://localhost:1313/paisagem/ushuaia/01_hu_305ea7bc3c04ea3a.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/ushuaia/</guid>
+        <media:content url="https://example.org/paisagem/ushuaia/01_hu_37302d2392e7be74.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/ushuaia/01_hu_305ea7bc3c04ea3a.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/ushuaia/01_hu_37302d2392e7be74.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Ushuaia (2022)</title>
-      <link>http://localhost:1313/street/ushuaia/</link>
+      <link>https://example.org/street/ushuaia/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/ushuaia/</guid>
-        <media:content url="http://localhost:1313/street/ushuaia/01_hu_344dc723ae6ae0c3.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/ushuaia/</guid>
+        <media:content url="https://example.org/street/ushuaia/01_hu_78185d592a4240b9.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/ushuaia/01_hu_344dc723ae6ae0c3.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/ushuaia/01_hu_78185d592a4240b9.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2022)</title>
-      <link>http://localhost:1313/paisagem/natal/</link>
+      <link>https://example.org/paisagem/natal/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/natal/</guid>
-        <media:content url="http://localhost:1313/paisagem/natal/01_hu_3c2ae295c63b4dba.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/natal/</guid>
+        <media:content url="https://example.org/paisagem/natal/01_hu_4d29f90814f0a9de.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/natal/01_hu_3c2ae295c63b4dba.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/natal/01_hu_4d29f90814f0a9de.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2021)</title>
-      <link>http://localhost:1313/street/natal_2021/</link>
+      <link>https://example.org/street/natal_2021/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/natal_2021/</guid>
-        <media:content url="http://localhost:1313/street/natal_2021/01_hu_ba466973eeb47ffe.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/natal_2021/</guid>
+        <media:content url="https://example.org/street/natal_2021/01_hu_880e827c1961b87.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/natal_2021/01_hu_ba466973eeb47ffe.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/natal_2021/01_hu_880e827c1961b87.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Pipa (2020, 2021)</title>
-      <link>http://localhost:1313/paisagem/pipa/</link>
+      <link>https://example.org/paisagem/pipa/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/pipa/</guid>
-        <media:content url="http://localhost:1313/paisagem/pipa/01_hu_615a224d731470c.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/pipa/</guid>
+        <media:content url="https://example.org/paisagem/pipa/01_hu_39bafa5f9f62b970.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/pipa/01_hu_615a224d731470c.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/pipa/01_hu_39bafa5f9f62b970.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Galinhos (2020)</title>
-      <link>http://localhost:1313/paisagem/galinhos/</link>
+      <link>https://example.org/paisagem/galinhos/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/galinhos/</guid>
-        <media:content url="http://localhost:1313/paisagem/galinhos/01_hu_4eceb6e3b0efa2dc.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/galinhos/</guid>
+        <media:content url="https://example.org/paisagem/galinhos/01_hu_7dbf30388cd43be4.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/galinhos/01_hu_4eceb6e3b0efa2dc.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/galinhos/01_hu_7dbf30388cd43be4.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Sintra (2020)</title>
-      <link>http://localhost:1313/street/sintra/</link>
+      <link>https://example.org/street/sintra/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/sintra/</guid>
-        <media:content url="http://localhost:1313/street/sintra/01_hu_13f398c6ef8eb364.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/sintra/</guid>
+        <media:content url="https://example.org/street/sintra/01_hu_b3d908ce468831ab.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/sintra/01_hu_13f398c6ef8eb364.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/sintra/01_hu_b3d908ce468831ab.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Lisboa (2020)</title>
-      <link>http://localhost:1313/street/lisboa/</link>
+      <link>https://example.org/street/lisboa/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/lisboa/</guid>
-        <media:content url="http://localhost:1313/street/lisboa/01_hu_aa789f1ed34fe4a2.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/lisboa/</guid>
+        <media:content url="https://example.org/street/lisboa/01_hu_d63009e8baafb23a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/lisboa/01_hu_aa789f1ed34fe4a2.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/lisboa/01_hu_d63009e8baafb23a.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Palermo (2020)</title>
-      <link>http://localhost:1313/street/palermo/modelo/</link>
+      <link>https://example.org/street/palermo/modelo/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/palermo/modelo/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/street/palermo/modelo/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Siracusa (2020)</title>
-      <link>http://localhost:1313/street/siracusa/</link>
+      <link>https://example.org/street/siracusa/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/siracusa/</guid>
-        <media:content url="http://localhost:1313/street/siracusa/01_hu_b5f6382a5a9ac5a2.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/siracusa/</guid>
+        <media:content url="https://example.org/street/siracusa/01_hu_d2f70709a8b590af.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/siracusa/01_hu_b5f6382a5a9ac5a2.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/siracusa/01_hu_d2f70709a8b590af.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Etna (2020)</title>
-      <link>http://localhost:1313/paisagem/etna/</link>
+      <link>https://example.org/paisagem/etna/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/etna/</guid>
-        <media:content url="http://localhost:1313/paisagem/etna/01_hu_d1dca7aa7c4988fc.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/etna/</guid>
+        <media:content url="https://example.org/paisagem/etna/01_hu_7a2c17e8d79d2972.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/etna/01_hu_d1dca7aa7c4988fc.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/etna/01_hu_7a2c17e8d79d2972.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Catania (2020)</title>
-      <link>http://localhost:1313/street/catania/</link>
+      <link>https://example.org/street/catania/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/catania/</guid>
-        <media:content url="http://localhost:1313/street/catania/01_hu_25db4d6512f699.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/catania/</guid>
+        <media:content url="https://example.org/street/catania/01_hu_61f3085043d28862.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/catania/01_hu_25db4d6512f699.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/catania/01_hu_61f3085043d28862.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Pompeia (2020)</title>
-      <link>http://localhost:1313/street/pompeia/</link>
+      <link>https://example.org/street/pompeia/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/pompeia/</guid>
-        <media:content url="http://localhost:1313/street/pompeia/01_hu_814b8dad2e659cc6.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/pompeia/</guid>
+        <media:content url="https://example.org/street/pompeia/01_hu_9602d55bd281cdce.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/pompeia/01_hu_814b8dad2e659cc6.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/pompeia/01_hu_9602d55bd281cdce.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Nápoles (2020)</title>
-      <link>http://localhost:1313/street/napoles/</link>
+      <link>https://example.org/street/napoles/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/napoles/</guid>
-        <media:content url="http://localhost:1313/street/napoles/01_hu_7bf374d6cb9af8b7.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/napoles/</guid>
+        <media:content url="https://example.org/street/napoles/01_hu_5bacbab1e5d84705.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/napoles/01_hu_7bf374d6cb9af8b7.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/napoles/01_hu_5bacbab1e5d84705.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Roma (2020)</title>
-      <link>http://localhost:1313/street/roma/</link>
+      <link>https://example.org/street/roma/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/roma/</guid>
-        <media:content url="http://localhost:1313/street/roma/00_hu_f89247f31d4f91dd.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/roma/</guid>
+        <media:content url="https://example.org/street/roma/00_hu_86ed0aa063dc098a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/roma/00_hu_f89247f31d4f91dd.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/roma/00_hu_86ed0aa063dc098a.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Florença (2020)</title>
-      <link>http://localhost:1313/street/florenca/</link>
+      <link>https://example.org/street/florenca/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/florenca/</guid>
-        <media:content url="http://localhost:1313/street/florenca/01_hu_80e21d53a74d01e1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/florenca/</guid>
+        <media:content url="https://example.org/street/florenca/01_hu_ef15f5c0db5e8bf6.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/florenca/01_hu_80e21d53a74d01e1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/florenca/01_hu_ef15f5c0db5e8bf6.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Agrigento (2020)</title>
-      <link>http://localhost:1313/paisagem/agrigento/</link>
+      <link>https://example.org/paisagem/agrigento/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/agrigento/</guid>
-        <media:content url="http://localhost:1313/paisagem/agrigento/01_hu_a7a627823a80195.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/agrigento/</guid>
+        <media:content url="https://example.org/paisagem/agrigento/01_hu_d2fadab37cb4061c.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/agrigento/01_hu_a7a627823a80195.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/agrigento/01_hu_d2fadab37cb4061c.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Veneza (2019)</title>
-      <link>http://localhost:1313/street/veneza/</link>
+      <link>https://example.org/street/veneza/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/veneza/</guid>
-        <media:content url="http://localhost:1313/street/veneza/01_hu_ba2763ed8eac25dc.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/veneza/</guid>
+        <media:content url="https://example.org/street/veneza/01_hu_e3a587b0b48fb048.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/veneza/01_hu_ba2763ed8eac25dc.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/veneza/01_hu_e3a587b0b48fb048.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Kuala Lumpur (2019)</title>
-      <link>http://localhost:1313/paisagem/kuala_lumpur/</link>
+      <link>https://example.org/paisagem/kuala_lumpur/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/kuala_lumpur/</guid>
-        <media:content url="http://localhost:1313/paisagem/kuala_lumpur/01_hu_f8ee70147bb4dcf9.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/kuala_lumpur/</guid>
+        <media:content url="https://example.org/paisagem/kuala_lumpur/01_hu_7ec6c6b4f2552f93.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/kuala_lumpur/01_hu_f8ee70147bb4dcf9.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/kuala_lumpur/01_hu_7ec6c6b4f2552f93.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Kuala Lumpur (2019)</title>
-      <link>http://localhost:1313/street/kuala_lumpur/</link>
+      <link>https://example.org/street/kuala_lumpur/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/kuala_lumpur/</guid>
-        <media:content url="http://localhost:1313/street/kuala_lumpur/01_hu_2fd9dd24c148c1da.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/kuala_lumpur/</guid>
+        <media:content url="https://example.org/street/kuala_lumpur/01_hu_2bd41273a61d6221.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/kuala_lumpur/01_hu_2fd9dd24c148c1da.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/kuala_lumpur/01_hu_2bd41273a61d6221.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Salvador (2019)</title>
-      <link>http://localhost:1313/paisagem/salvador/</link>
+      <link>https://example.org/paisagem/salvador/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/salvador/</guid>
-        <media:content url="http://localhost:1313/paisagem/salvador/01_hu_b2619c99ed790837.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/salvador/</guid>
+        <media:content url="https://example.org/paisagem/salvador/01_hu_2ade1882e6a68902.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/salvador/01_hu_b2619c99ed790837.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/salvador/01_hu_2ade1882e6a68902.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>São Miguel do Gostoso (2019)</title>
-      <link>http://localhost:1313/paisagem/sao_miguel_do_gostoso/</link>
+      <link>https://example.org/paisagem/sao_miguel_do_gostoso/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/sao_miguel_do_gostoso/</guid>
-        <media:content url="http://localhost:1313/paisagem/sao_miguel_do_gostoso/01_hu_e2662e07dfc3a8e2.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/sao_miguel_do_gostoso/</guid>
+        <media:content url="https://example.org/paisagem/sao_miguel_do_gostoso/01_hu_34e5346b75179bbd.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/sao_miguel_do_gostoso/01_hu_e2662e07dfc3a8e2.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/sao_miguel_do_gostoso/01_hu_34e5346b75179bbd.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>São Raimundo Nonato (2019)</title>
-      <link>http://localhost:1313/paisagem/_modelo/</link>
+      <link>https://example.org/paisagem/_modelo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/_modelo/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/paisagem/_modelo/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>São Raimundo Nonato (2019)</title>
-      <link>http://localhost:1313/paisagem/sao_raimundo_nonato/</link>
+      <link>https://example.org/paisagem/sao_raimundo_nonato/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/sao_raimundo_nonato/</guid>
-        <media:content url="http://localhost:1313/paisagem/sao_raimundo_nonato/01_hu_28f08db989057c82.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/sao_raimundo_nonato/</guid>
+        <media:content url="https://example.org/paisagem/sao_raimundo_nonato/01_hu_5f1ad5b5273878f.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/sao_raimundo_nonato/01_hu_28f08db989057c82.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/sao_raimundo_nonato/01_hu_5f1ad5b5273878f.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Bazar Duas - Crônica Falada (Natal, 2018)</title>
-      <link>http://localhost:1313/exposicoes/2018_natal/</link>
+      <link>https://example.org/exposicoes/2018_natal/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/exposicoes/2018_natal/</guid>
-        <media:content url="http://localhost:1313/exposicoes/2018_natal/01_hu_bdaa6a69e795079e.jpg" type="image/jpeg"/>
+      <guid>https://example.org/exposicoes/2018_natal/</guid>
+        <media:content url="https://example.org/exposicoes/2018_natal/01_hu_6bcb398ef33925f8.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/exposicoes/2018_natal/01_hu_bdaa6a69e795079e.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/exposicoes/2018_natal/01_hu_6bcb398ef33925f8.jpg&quot; /&gt;
           &lt;p&gt;C[lique para baixar o catálogo](Duas_2018.pdf)&lt;/p&gt;
         </description></item>
     <item>
       <title>Natal (2018)</title>
-      <link>http://localhost:1313/street/natal/</link>
+      <link>https://example.org/street/natal/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/natal/</guid>
-        <media:content url="http://localhost:1313/street/natal/01_hu_bcfec4686dc14f36.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/natal/</guid>
+        <media:content url="https://example.org/street/natal/01_hu_206f4bde7842688b.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/natal/01_hu_bcfec4686dc14f36.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/natal/01_hu_206f4bde7842688b.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Tramandaí (2018)</title>
-      <link>http://localhost:1313/street/tramandai/</link>
+      <link>https://example.org/street/tramandai/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/tramandai/</guid>
-        <media:content url="http://localhost:1313/street/tramandai/01_hu_a02c1f952dc84c91.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/tramandai/</guid>
+        <media:content url="https://example.org/street/tramandai/01_hu_78ed07a6a6a5ef34.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/tramandai/01_hu_a02c1f952dc84c91.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/tramandai/01_hu_78ed07a6a6a5ef34.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Serra de São Bento (2018)</title>
-      <link>http://localhost:1313/paisagem/serra_de_sao_bento/</link>
+      <link>https://example.org/paisagem/serra_de_sao_bento/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/serra_de_sao_bento/</guid>
-        <media:content url="http://localhost:1313/paisagem/serra_de_sao_bento/01_hu_90f50ccc6963ee94.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/serra_de_sao_bento/</guid>
+        <media:content url="https://example.org/paisagem/serra_de_sao_bento/01_hu_be6f73fcafcfa17a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/serra_de_sao_bento/01_hu_90f50ccc6963ee94.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/serra_de_sao_bento/01_hu_be6f73fcafcfa17a.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Toledo (2018)</title>
-      <link>http://localhost:1313/street/toledo/</link>
+      <link>https://example.org/street/toledo/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/toledo/</guid>
-        <media:content url="http://localhost:1313/street/toledo/01_hu_3517b5c256dd36c.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/toledo/</guid>
+        <media:content url="https://example.org/street/toledo/01_hu_336e71d31ccf0eac.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/toledo/01_hu_3517b5c256dd36c.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/toledo/01_hu_336e71d31ccf0eac.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Barcelona (2018)</title>
-      <link>http://localhost:1313/street/barcelona/</link>
+      <link>https://example.org/street/barcelona/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/barcelona/</guid>
-        <media:content url="http://localhost:1313/street/barcelona/01_hu_fb3623762ca97326.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/barcelona/</guid>
+        <media:content url="https://example.org/street/barcelona/01_hu_449acd39796e9d79.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/barcelona/01_hu_fb3623762ca97326.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/barcelona/01_hu_449acd39796e9d79.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Granada (2018)</title>
-      <link>http://localhost:1313/street/granada/</link>
+      <link>https://example.org/street/granada/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/granada/</guid>
-        <media:content url="http://localhost:1313/street/granada/01_hu_5c1d990646e0f769.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/granada/</guid>
+        <media:content url="https://example.org/street/granada/01_hu_7aad80e5d435c791.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/granada/01_hu_5c1d990646e0f769.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/granada/01_hu_7aad80e5d435c791.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Ronda (2018)</title>
-      <link>http://localhost:1313/street/ronda/</link>
+      <link>https://example.org/street/ronda/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/ronda/</guid>
-        <media:content url="http://localhost:1313/street/ronda/01_hu_eb4fa7b34999435f.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/ronda/</guid>
+        <media:content url="https://example.org/street/ronda/01_hu_c1acd51b6f801e73.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/ronda/01_hu_eb4fa7b34999435f.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/ronda/01_hu_c1acd51b6f801e73.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Vejer de la Frontera (2018)</title>
-      <link>http://localhost:1313/street/vejer_de_la_frontera/</link>
+      <link>https://example.org/street/vejer_de_la_frontera/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/vejer_de_la_frontera/</guid>
-        <media:content url="http://localhost:1313/street/vejer_de_la_frontera/01_hu_e8f2cc5b9702fc71.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/vejer_de_la_frontera/</guid>
+        <media:content url="https://example.org/street/vejer_de_la_frontera/01_hu_dd3396e1888de87d.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/vejer_de_la_frontera/01_hu_e8f2cc5b9702fc71.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/vejer_de_la_frontera/01_hu_dd3396e1888de87d.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Sevilha (2018)</title>
-      <link>http://localhost:1313/street/sevilha/_modelo/</link>
+      <link>https://example.org/street/sevilha/_modelo/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/sevilha/_modelo/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/street/sevilha/_modelo/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Segóvia (2018)</title>
-      <link>http://localhost:1313/street/segovia/</link>
+      <link>https://example.org/street/segovia/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/segovia/</guid>
-        <media:content url="http://localhost:1313/street/segovia/01_hu_136b06c78b6ebe2b.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/segovia/</guid>
+        <media:content url="https://example.org/street/segovia/01_hu_7d8a022268b1a235.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/segovia/01_hu_136b06c78b6ebe2b.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/segovia/01_hu_7d8a022268b1a235.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Madri (2018)</title>
-      <link>http://localhost:1313/street/_modelo/</link>
+      <link>https://example.org/street/_modelo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/_modelo/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://example.org/street/_modelo/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Madri (2018)</title>
-      <link>http://localhost:1313/street/madri/</link>
+      <link>https://example.org/street/madri/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/madri/</guid>
-        <media:content url="http://localhost:1313/street/madri/01_hu_dfcb15bddf935b7c.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/madri/</guid>
+        <media:content url="https://example.org/street/madri/01_hu_c4c5a625f192d0ea.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/madri/01_hu_dfcb15bddf935b7c.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/madri/01_hu_c4c5a625f192d0ea.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Nova Iorque (2010)</title>
-      <link>http://localhost:1313/street/nova_iorque_2010/</link>
+      <link>https://example.org/street/nova_iorque_2010/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/nova_iorque_2010/</guid>
-        <media:content url="http://localhost:1313/street/nova_iorque_2010/01_hu_89c1e8821f145bde.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/nova_iorque_2010/</guid>
+        <media:content url="https://example.org/street/nova_iorque_2010/01_hu_343316c1e4f0d228.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/nova_iorque_2010/01_hu_89c1e8821f145bde.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/nova_iorque_2010/01_hu_343316c1e4f0d228.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Grand Canyon (2009)</title>
-      <link>http://localhost:1313/paisagem/grand_canyon/</link>
+      <link>https://example.org/paisagem/grand_canyon/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/paisagem/grand_canyon/</guid>
-        <media:content url="http://localhost:1313/paisagem/grand_canyon/01_hu_cf9b77cbadee2291.jpg" type="image/jpeg"/>
+      <guid>https://example.org/paisagem/grand_canyon/</guid>
+        <media:content url="https://example.org/paisagem/grand_canyon/01_hu_73345193139c6728.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/paisagem/grand_canyon/01_hu_cf9b77cbadee2291.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/paisagem/grand_canyon/01_hu_73345193139c6728.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Las Vegas (2009)</title>
-      <link>http://localhost:1313/street/las_vegas/</link>
+      <link>https://example.org/street/las_vegas/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/las_vegas/</guid>
-        <media:content url="http://localhost:1313/street/las_vegas/01_hu_48c6eb53283ba924.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/las_vegas/</guid>
+        <media:content url="https://example.org/street/las_vegas/01_hu_a70c35c489058cd9.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/las_vegas/01_hu_48c6eb53283ba924.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/las_vegas/01_hu_a70c35c489058cd9.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>State College (2009)</title>
-      <link>http://localhost:1313/street/state_college_2009/</link>
+      <link>https://example.org/street/state_college_2009/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/state_college_2009/</guid>
-        <media:content url="http://localhost:1313/street/state_college_2009/01_hu_80ecc6b88d2ba188.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/state_college_2009/</guid>
+        <media:content url="https://example.org/street/state_college_2009/01_hu_a05f78cea72c4f83.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/state_college_2009/01_hu_80ecc6b88d2ba188.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/state_college_2009/01_hu_a05f78cea72c4f83.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>São Leopoldo (2009)</title>
-      <link>http://localhost:1313/street/sao_leopoldo/</link>
+      <link>https://example.org/street/sao_leopoldo/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/sao_leopoldo/</guid>
-        <media:content url="http://localhost:1313/street/sao_leopoldo/01_hu_438b766146488903.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/sao_leopoldo/</guid>
+        <media:content url="https://example.org/street/sao_leopoldo/01_hu_263a23ad1ec53e86.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/sao_leopoldo/01_hu_438b766146488903.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/sao_leopoldo/01_hu_263a23ad1ec53e86.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Nova Iorque (2009)</title>
-      <link>http://localhost:1313/street/nova_iorque/</link>
+      <link>https://example.org/street/nova_iorque/</link>
       <pubDate>Sun, 01 Mar 2009 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/nova_iorque/</guid>
-        <media:content url="http://localhost:1313/street/nova_iorque/01_hu_16ea3ffdd0d23419.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/nova_iorque/</guid>
+        <media:content url="https://example.org/street/nova_iorque/01_hu_bc2e1b98f84c6b7b.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/nova_iorque/01_hu_16ea3ffdd0d23419.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/nova_iorque/01_hu_bc2e1b98f84c6b7b.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>State College (2008)</title>
-      <link>http://localhost:1313/street/state_college/</link>
+      <link>https://example.org/street/state_college/</link>
       <pubDate>Fri, 01 Aug 2008 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/state_college/</guid>
-        <media:content url="http://localhost:1313/street/state_college/01_hu_f8aed0660b36f5c1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/state_college/</guid>
+        <media:content url="https://example.org/street/state_college/01_hu_a3af210111cbf9c.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/state_college/01_hu_f8aed0660b36f5c1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/state_college/01_hu_a3af210111cbf9c.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Portland (2008)</title>
-      <link>http://localhost:1313/street/portland/</link>
+      <link>https://example.org/street/portland/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 -0300</pubDate><author>marcus.nunes@gmail.com (Marcus Nunes)</author>
-      <guid>http://localhost:1313/street/portland/</guid>
-        <media:content url="http://localhost:1313/street/portland/01_hu_95bf2fc366496662.jpg" type="image/jpeg"/>
+      <guid>https://example.org/street/portland/</guid>
+        <media:content url="https://example.org/street/portland/01_hu_839dde17a91cfecf.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/street/portland/01_hu_95bf2fc366496662.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/street/portland/01_hu_839dde17a91cfecf.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

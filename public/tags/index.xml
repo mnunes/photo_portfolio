@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfólio</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Portfólio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>marcus.nunes@gmail.com (Marcus Nunes)</managingEditor>
     <webMaster>marcus.nunes@gmail.com (Marcus Nunes)</webMaster>
-    <copyright>© Marcus Nunes</copyright><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Marcus Nunes</copyright><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
