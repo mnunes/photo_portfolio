@@ -19,4 +19,4 @@ fotos:
   - paisagem/agrigento/05.jpg
 ---
 
-Templos gregos, a neblina no Etna e as ruas de Palermo, Catania e Siracusa.
+Templos gregos de Agrigento, a neblina no Etna e as ruas de Palermo, Catania e Siracusa.

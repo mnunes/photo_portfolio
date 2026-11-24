@@ -19,4 +19,4 @@ fotos:
   - street/mendoza/05.jpg
 ---
 
-Gente de passagem pelas cidades. Um estudo sobre a relação das pessoas com as ruas.
+Gente de passagem pelas cidades: um estudo sobre a relação das pessoas com as ruas, em cenas como um homem diante de um muro de tijolos, um ciclista borrado pelo movimento e a fumaça de uma banca de comida à noite.

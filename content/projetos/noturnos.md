@@ -13,4 +13,4 @@ fotos:
   - paisagem/currais_novos/04.jpg
 ---
 
-A Via Láctea sobre o litoral potiguar e a cordilheira do Andes, longe das luzes da cidade.
+A Via Láctea sobre o sertão potiguar, o litoral e a cordilheira dos Andes, longe das luzes da cidade.

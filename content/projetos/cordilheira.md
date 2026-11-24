@@ -13,4 +13,4 @@ fotos:
   - paisagem/mendoza/06.jpg
 ---
 
-Registros dos Andes que fiz durante o anos de 2025, quando morei em Mendoza, Argentina. Parte destas imagens foi exibida na Mostra Fotográfica de Mendoza, em 2025.
+A luz rasante sobre os Andes, as construções isoladas ao pé da montanha e o céu noturno da pré-cordilheira mendocina. Registros que fiz em 2025, quando morei em Mendoza, Argentina. Parte destas imagens foi exibida na Mostra Fotográfica de Mendoza, em 2025.

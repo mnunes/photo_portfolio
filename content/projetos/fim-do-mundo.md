@@ -19,4 +19,4 @@ fotos:
   - street/ushuaia/07.jpg
 ---
 
-Geleiras, o Canal de Beagle e a cidade mais austral do mundo: como foi conhecer Ushuaia.
+Geleiras, o Canal de Beagle e a cidade mais austral do mundo, entre barcos encalhados e casas de madeira.

@@ -22,4 +22,4 @@ fotos:
   - street/barcelona/05.jpg
 ---
 
-Um convite para ver o mundo reduzido a formas. A arquitetura reduzida à geometria.
+Um convite para ver o mundo reduzido a formas: corredores, escadas, arcos e planos de cor. A arquitetura reduzida à geometria.

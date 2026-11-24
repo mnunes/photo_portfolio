@@ -23,4 +23,4 @@ fotos:
   - exposicoes/2018_natal/05.jpg
 ---
 
-Meu primeiro projeto fotográfico. O cotidiano em preto e branco: objetos esquecidos, cães de rua, fios, sombras e carros abandonados. Parte destas imagens integrou a exposição *Bazar Duas - Crônica Falada* (Natal, 2018).
+Meu primeiro projeto fotográfico. O cotidiano em preto e branco: objetos esquecidos, cães de rua, fios, sombras e carros abandonados. Parte destas imagens integrou a exposição *Bazar Duas — Crônica Falada* (Natal, 2018).
