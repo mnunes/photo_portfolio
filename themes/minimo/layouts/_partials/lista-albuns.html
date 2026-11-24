@@ -1,0 +1,18 @@
+{{- /* Duas visões da mesma lista: por local (alfabética) e por data (agrupada por ano). */ -}}
+<ul class="albuns por-local">
+  {{- range sort . "Title" }}
+  <li><a href="{{ .RelPermalink }}">{{ replaceRE ` \(.*\)$` "" .Title }}</a><span class="meta">{{ .Date.Year }}</span></li>
+  {{- end }}
+</ul>
+<div class="albuns por-data">
+  {{- range .GroupByDate "2006" }}
+  <div class="ano">
+    <h3>{{ .Key }}</h3>
+    <ul>
+      {{- range sort .Pages "Title" }}
+      <li><a href="{{ .RelPermalink }}">{{ replaceRE ` \(.*\)$` "" .Title }}</a><span class="meta">{{ $n := len (.Resources.ByType "image") }}{{ $n }} {{ cond (eq $n 1) "foto" "fotos" }}</span></li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+</div>

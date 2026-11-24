@@ -1,0 +1,13 @@
+{{- /* Fotos em sequência vertical, em tamanho grande, respeitando a altura da tela. */ -}}
+{{- $fotos := partial "fotos.html" . -}}
+<div class="sequencia">
+  {{- range $i, $f := $fotos }}
+  {{- $retrato := lt $f.img.Width $f.img.Height }}
+  <figure class="foto{{ if $retrato }} retrato{{ end }}" id="{{ add $i 1 }}" style="--ar: {{ div (float $f.img.Width) $f.img.Height | lang.FormatNumber 4 | replaceRE "," "." }}">
+    <a href="{{ ($f.img.Resize "2600x webp q85").RelPermalink }}" aria-label="Abrir em tamanho grande">
+      {{- partial "img.html" (dict "img" $f.img "eager" (eq $i 0) "alt" (or $f.legenda $.Title) "sizes" (cond $retrato "(min-width: 900px) 60vw, 100vw" "(min-width: 1400px) 1300px, 100vw")) -}}
+    </a>
+    <figcaption><span class="n">{{ printf "%02d" (add $i 1) }}</span>{{ with $f.legenda }}<span>{{ . }}</span>{{ end }}</figcaption>
+  </figure>
+  {{- end }}
+</div>

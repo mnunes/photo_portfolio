@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{- if eq .Section "projetos" }}
+  {{ partial "grade.html" (dict "paginas" .Pages.ByWeight "classe" "projetos" "numerar" true "destaque" true) }}
+{{- else }}
+<header class="cabecalho">
+  <p class="rotulo">{{ cond (eq .Section "exposicoes") "Exposições" "Arquivo" }}</p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="sub">{{ . }}</p>{{ end }}
+  {{ .Content }}
+</header>
+{{- if eq .Section "exposicoes" }}
+  {{ partial "grade.html" (dict "paginas" .Pages.ByDate.Reverse "classe" "exposicoes") }}
+{{- else }}
+  {{ partial "ordem.html" }}
+  <div class="arquivo" data-ordem="local">{{ partial "lista-albuns.html" .Pages }}</div>
+{{- end }}
+{{- end }}
+{{ end }}

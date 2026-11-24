@@ -1,0 +1,18 @@
+este e o meu portfolio fotografico. eu gosto dele, mas acho que esta muito grande, com muitas informacoes e nao deixando o visitante ver quais sao meus pontos fortes e fracos. eu gostaria de uma repaginacao total deste site. considerações:
+
+1. a nova versao deve permanecer feita em hugo
+
+2. esta permitido usar um novo tema pronto em hugo
+
+3. deixe o site organizado por projetos, decidindo o que é melhor
+
+4. mantenha a aba `sobre` intacta
+
+5. inspire-se em outros portfolios fotograficos feitos em hugo
+
+6. prefira um estilo minimalista e responsivo
+
+
+
+
+

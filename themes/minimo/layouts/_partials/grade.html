@@ -1,0 +1,25 @@
+{{- /* Grade de capas. Recebe dict: paginas, classe, numerar (bool), destaque (bool: 1º item em largura total). */ -}}
+<ul class="grade {{ .classe }}">
+  {{- range $i, $p := .paginas }}
+  {{- $grande := and $.destaque (eq $i 0) }}
+  <li{{ if $grande }} class="destaque"{{ end }}>
+    <a href="{{ $p.RelPermalink }}">
+      <span class="moldura">
+      {{- with partial "capa.html" $p }}
+      {{- if $grande }}
+        {{- partial "img.html" (dict "img" . "recorte" "2x1" "larguras" (slice 800 1400 2200) "alt" $p.Title "eager" true "sizes" "(min-width: 1400px) 1300px, 100vw") }}
+      {{- else }}
+        {{- partial "img.html" (dict "img" . "recorte" "3x2" "larguras" (slice 480 800 1200) "alt" $p.Title "eager" (lt $i 3)
+              "sizes" "(min-width: 700px) 50vw, 100vw") }}
+      {{- end }}
+      {{- end }}
+      </span>
+      <span class="legenda">
+        {{- if $.numerar }}<span class="num">{{ printf "%02d" (add $i 1) }}</span>{{ end }}
+        <span class="titulo">{{ $p.Title }}</span>
+        {{- with $p.Params.subtitulo }}<span class="sub">{{ . }}</span>{{ end }}
+      </span>
+    </a>
+  </li>
+  {{- end }}
+</ul>

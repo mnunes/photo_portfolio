@@ -1,0 +1,9 @@
+{{- /* Imagem de capa: params.capa, a primeira de params.fotos, ou a primeira do álbum. */ -}}
+{{- $img := false -}}
+{{- with .Params.capa -}}
+  {{- $img = (partial "foto.html" .).img -}}
+{{- else -}}
+  {{- with .Resources.GetMatch "capa.*" }}{{ $img = . }}{{ end -}}
+  {{- if not $img }}{{ with index (partial "fotos.html" .) 0 }}{{ $img = .img }}{{ end }}{{ end -}}
+{{- end -}}
+{{- return $img -}}

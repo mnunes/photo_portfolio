@@ -1,0 +1,30 @@
+{{- /* Imagem responsiva em WebP.
+       Parâmetros: img, sizes, alt, class, eager (bool), larguras (slice), recorte ("LxA" para Fill). */ -}}
+{{- $img := .img -}}
+{{- $larguras := .larguras | default (slice 640 1024 1600 2200) -}}
+{{- $srcset := slice -}}
+{{- $menor := false -}}
+{{- $maior := false -}}
+{{- range $larguras -}}
+  {{- if or (le . $img.Width) (not $srcset) -}}
+    {{- $w := cond (gt . $img.Width) $img.Width . -}}
+    {{- $r := false -}}
+    {{- with $.recorte -}}
+      {{- $dims := split . "x" -}}
+      {{- $h := math.Round (div (mul (float $w) (float (index $dims 1))) (float (index $dims 0))) | int -}}
+      {{- $r = $img.Fill (printf "%dx%d Center webp q80" $w $h) -}}
+    {{- else -}}
+      {{- $r = $img.Resize (printf "%dx webp q80" $w) -}}
+    {{- end -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $r.RelPermalink $r.Width) -}}
+    {{- if not $menor }}{{ $menor = $r }}{{ end -}}
+    {{- $maior = $r -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $menor.RelPermalink }}"
+  srcset="{{ delimit $srcset ", " }}"
+  sizes="{{ .sizes | default "100vw" }}"
+  width="{{ $maior.Width }}" height="{{ $maior.Height }}"
+  alt="{{ .alt }}"
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- if .eager }} fetchpriority="high"{{ else }} loading="lazy" decoding="async"{{ end }}>

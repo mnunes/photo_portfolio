@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="prosa">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{- with site.Params.social }}
+  <ul class="social" aria-label="Links">
+    {{- range . }}
+    {{- $classe := cond (eq .icon_pack "ai") (printf "ai ai-%s" .icon) (printf "%s fa-%s" .icon_pack .icon) }}
+    <li><a href="{{ .link }}"{{ if not (hasPrefix .link "mailto:") }} target="_blank" rel="noopener me"{{ end }} title="{{ .nome }}" aria-label="{{ .nome }}"><i class="{{ $classe }}" aria-hidden="true"></i></a></li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</article>
+{{ end }}
