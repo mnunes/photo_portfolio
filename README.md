@@ -1,6 +1,6 @@
 # Marcus Nunes Photo Portfolio
 
-Este é o portfólio de fotografia de [Marcus Nunes](https://marcusnunes.me/) construído com **hugo** utilizando o tema *hugo-theme-gallery*.  
+Este é o portfólio de fotografia de [Marcus Nunes](https://marcusnunes.me/) construído com **hugo** e um tema próprio e minimalista (`themes/minimo`), sem dependências externas.  
 
 # Descrição
 
@@ -19,18 +19,16 @@ Caos queira criar a sua versão deste repositório, siga os passos a seguir:
    cd photo_portfolio
    ```
 
-2. **Instale as dependências** (módulos Hugo):
-
-   ```bash
-   hugo mod get
-   ```
-
-3. **Execute localmente** o servidor Hugo:
+2. **Execute localmente** o servidor Hugo:
 
    ```bash
    hugo server
    ```
 
+# Organização
 
-
+- `content/projetos/`: os projetos exibidos na página inicial. Cada projeto é um arquivo `.md` com título, subtítulo, ordem (`weight`), um texto curto e a lista `fotos`, com caminhos para imagens dos álbuns (ex.: `paisagem/mendoza/01.jpg`). Para trocar a legenda de uma foto use `- {src: paisagem/mendoza/01.jpg, legenda: "Texto"}`; para escolher a capa, `capa: caminho/da/foto.jpg`.
+- `content/paisagem/` e `content/street/`: os álbuns originais por lugar, listados na página **Arquivo**.
+- `content/exposicoes/`: exposições, com o catálogo em PDF indicado pelo campo `catalogo`.
+- `content/sobre.md`: a página Sobre.
 

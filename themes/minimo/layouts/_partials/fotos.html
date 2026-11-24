@@ -1,0 +1,18 @@
+{{- /* Lista de fotos de uma página: dicts com img e legenda.
+       Projetos usam params.fotos (caminhos para fotos de outros álbuns);
+       álbuns e exposições usam as próprias imagens. */ -}}
+{{- $out := slice -}}
+{{- with .Params.fotos -}}
+  {{- range . -}}
+    {{- $src := . -}}{{- $leg := "" -}}
+    {{- if reflect.IsMap . }}{{ $src = .src }}{{ $leg = .legenda }}{{ end -}}
+    {{- $f := partial "foto.html" $src -}}
+    {{- if not $leg }}{{ $leg = $f.origem.Params.legenda | default $f.origem.Title }}{{ end -}}
+    {{- $out = $out | append (dict "img" $f.img "legenda" $leg) -}}
+  {{- end -}}
+{{- else -}}
+  {{- range sort (.Resources.ByType "image") "Name" -}}
+    {{- $out = $out | append (dict "img" . "legenda" "") -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

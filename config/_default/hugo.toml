@@ -1,84 +1,85 @@
+baseURL = "https://fotografia.marcusnunes.me/"
+title = "Marcus Nunes"
+theme = "minimo"
 copyright = "© Marcus Nunes"
-defaultContentLanguage = "en"
-disableKinds = ["term"]
-enableRobotsTXT = true
-languageCode = "en"
+defaultContentLanguage = "pt"
+locale = "pt-BR"
 timeZone = "America/Fortaleza"
-timeout = "120s"
-title = "Portfólio"
+timeout = "300s"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "rss"]
+# _modelo.md são modelos para novos álbuns, não páginas
+ignoreFiles = ["_modelo\\.md$"]
 
 [params]
-  defaultTheme = "dark"
-  description = "Portfolio fotográfico de Marcus Nunes - marcusnunes.me"
-  title = "Portfolio"
-  [params.author]
-    email = "marcus.nunes@gmail.com"
-    name = "Marcus Nunes"
-  [params.socialIcons]
-    instagram = "https://www.instagram.com/grandeabobora"
-    email = "mailto:marcus.nunes@gmail.com"
-    website = "https://marcusnunes.me"
-    #mastodon = "https://example.com"
-    #pixelfed = "https://example.com"
-    #mixcloud = "https://example.com"
-    #flickr = "https://www.flickr.com"
-    #500px = "https://500px"
-    #whatsapp = "1234567890"
-  [params.gallery]
-    #boxSpacing = 10
-    #targetRowHeight = 288
-    #targetRowHeightTolerance = 0.25
+  # Fonte dos títulos: "garamond" (serifada) | "inter" | "instrument" | "manrope" (sem serifa)
+  tipografia = "garamond"
+  description = "Fotografia de Marcus Nunes — paisagem, rua e ensaios em preto e branco."
+  email = "marcus.nunes@gmail.com"
+  website = "https://marcusnunes.me"
+
+# Menu principal. A página "Sobre" define o próprio item no front matter.
+[menus]
+  [[menus.main]]
+    name = "Projetos"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Exposições"
+    pageRef = "/exposicoes"
+    weight = 20
+  [[menus.main]]
+    name = "Arquivo"
+    pageRef = "/arquivo"
+    weight = 30
 
 [outputs]
-  home = ["HTML", "RSS"]
-  page = ["HTML"]
+  home = ["HTML"]
   section = ["HTML"]
+  page = ["HTML"]
 
 [imaging]
-  quality = 75
-  resampleFilter = "CatmullRom"
+  quality = 82
+  resampleFilter = "Lanczos"
   [imaging.exif]
-    disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription|Orientation"
 
-[module]
-  [module.hugoVersion]
-    min = "0.121.2"
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+[markup.goldmark.renderer]
+  unsafe = true
 
-[menu]
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
-
-[services]
-  [services.rss]
-    limit = 100
-
-
-[related]
-  includeNewer = true
-  threshold = 10
-  toLower = false
-  [[related.indices]]
-    applyFilter = false
-    cardinalityThreshold = 0
-    name = 'categories'
-    pattern = ''
-    toLower = false
-    type = 'basic'
-    weight = 10
-  [[related.indices]]
-    applyFilter = false
-    cardinalityThreshold = 0
-    name = 'keywords'
-    pattern = ''
-    toLower = false
-    type = 'basic'
-    weight = 50
-
-
-
+# Links sociais exibidos na página Sobre (icon_pack: fas/fab/fa = Font Awesome, ai = Academicons)
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:marcus.nunes@gmail.com"
+  nome = "E-mail"
+[[params.social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/grandeabobora"
+  nome = "Instagram"
+[[params.social]]
+  icon = "lattes"
+  icon_pack = "ai"
+  link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4750166H6"
+  nome = "Currículo Lattes"
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=mTYYN9gAAAAJ"
+  nome = "Google Scholar"
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mnunes"
+  nome = "GitHub"
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://br.linkedin.com/in/marcusanunes"
+  nome = "LinkedIn"
+[[params.social]]
+  icon = "rss"
+  icon_pack = "fa"
+  link = "https://marcusnunes.me"
+  nome = "Site pessoal"

@@ -1,0 +1,6 @@
+{{ define "main" }}
+<section class="intro">
+  {{ .Content }}
+</section>
+{{ partial "grade.html" (dict "paginas" (site.GetPage "/projetos").Pages.ByWeight "classe" "projetos" "numerar" true "destaque" true) }}
+{{ end }}

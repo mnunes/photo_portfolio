@@ -1,0 +1,7 @@
+{{- /* Resolve "secao/album/arquivo.jpg" para o recurso de imagem correspondente. */ -}}
+{{- $src := . -}}
+{{- $p := site.GetPage (path.Dir $src) -}}
+{{- if not $p }}{{ errorf "foto %q: página %q não encontrada" $src (path.Dir $src) }}{{ end -}}
+{{- $r := $p.Resources.Get (path.Base $src) -}}
+{{- if not $r }}{{ errorf "foto %q: arquivo não encontrado no álbum" $src }}{{ end -}}
+{{- return (dict "img" $r "origem" $p) -}}

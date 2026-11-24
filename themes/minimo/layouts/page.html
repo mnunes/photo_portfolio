@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{- $projeto := eq .Section "projetos" }}
+{{- $exposicao := eq .Section "exposicoes" }}
+{{- $fotos := partial "fotos.html" . }}
+<article class="{{ cond (or $projeto $exposicao) "projeto" "album" }}">
+  <header class="cabecalho dividido">
+    <div>
+      <p class="rotulo">
+        {{- if $projeto }}{{ $lista := (site.GetPage "/projetos").Pages.ByWeight }}{{ range $i, $p := $lista }}{{ if eq $p $ }}Projeto {{ printf "%02d" (add $i 1) }}{{ end }}{{ end }}
+        {{- else if $exposicao }}Exposição
+        {{- else }}Arquivo · {{ .Parent.Title }}{{ end -}}
+      </p>
+      <h1>{{ replaceRE ` \(.*\)$` "" .Title }}</h1>
+      <p class="sub">{{ with .Params.subtitulo }}{{ . }} · {{ else }}{{ with findRE `\((.*)\)$` .Title 1 }}{{ index . 0 | strings.TrimPrefix "(" | strings.TrimSuffix ")" }} · {{ end }}{{ end }}{{ len $fotos }} fotografias</p>
+    </div>
+    <div class="texto">
+      {{ .Content }}
+      {{ with .Params.catalogo }}{{ with $.Resources.Get . }}
+      <p class="catalogo"><a href="{{ .RelPermalink }}">Catálogo da exposição (PDF) ↓</a></p>
+      {{ end }}{{ end }}
+      {{ with .Params.materia }}
+      <p class="catalogo"><a href="{{ . }}" target="_blank" rel="noopener">Matéria sobre a exposição ↗</a></p>
+      {{ end }}
+    </div>
+  </header>
+
+  {{ partial "sequencia.html" . }}
+
+  {{- if $projeto }}
+    {{- $irmaos := (site.GetPage "/projetos").Pages.ByWeight }}
+    {{- $prox := or ($irmaos.Next .) (index $irmaos 0) }}
+    <nav class="proximo" aria-label="Próximo projeto">
+      <a href="{{ $prox.RelPermalink }}">
+        <span class="rotulo">Próximo projeto</span>
+        <span class="titulo">{{ $prox.Title }} <span aria-hidden="true">→</span></span>
+        <span class="sub">{{ $prox.Params.subtitulo }}</span>
+        {{- with partial "capa.html" $prox }}
+        {{ partial "img.html" (dict "img" . "recorte" "3x1" "larguras" (slice 800 1400 2000) "alt" "" "sizes" "(min-width: 1100px) 1000px, 100vw") }}
+        {{- end }}
+      </a>
+      <p class="voltar"><a href="{{ "/" | relURL }}">Todos os projetos</a></p>
+    </nav>
+  {{- else }}
+    <nav class="proximo" aria-label="Voltar">
+      <p class="voltar">
+      {{- if $exposicao }}<a href="{{ "/exposicoes/" | relURL }}">← Todas as exposições</a>
+      {{- else }}<a href="{{ "/arquivo/" | relURL }}">← Voltar ao arquivo</a>{{ end -}}
+      </p>
+    </nav>
+  {{- end }}
+</article>
+{{ end }}

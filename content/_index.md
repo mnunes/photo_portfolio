@@ -1,17 +1,8 @@
 ---
-description: Portfólio Fotográfico
-#lastmod: 2023-07-05
 title: Marcus Nunes
+description: Fotografia de Marcus Nunes — paisagem, rua e ensaios em preto e branco.
 resources:
   - src: capa.jpg
-    params:
-      cover: true # cover of the home page is used for OpenGraph cards, etc.
-menus:
-  main:
-    name: Home
-    weight: -1
-# sub-galleries on list pages are sorted by date and weight (descending)
-#cascade:
-#  build:
-#    publishResources: false # do not include full images. Also disable download
 ---
+
+Paisagens, ruas e pequenos acontecimentos do cotidiano — *organizados em projetos.*

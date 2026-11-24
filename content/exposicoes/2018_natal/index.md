@@ -1,7 +1,8 @@
 ---
 date: 2018-10-01
+legenda: Natal (2018)
 title:  Bazar Duas - Crônica Falada (Natal, 2018)
-description: C[lique para baixar o catálogo](Duas_2018.pdf)
+catalogo: Duas_2018.pdf
 sort_by: Name
 categories: ["exposições"]
 tags: ["exposições", "natal", "brasil"]
