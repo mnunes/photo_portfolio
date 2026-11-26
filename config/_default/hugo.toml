@@ -39,8 +39,11 @@ ignoreFiles = ["_modelo\\.md$"]
   page = ["HTML"]
 
 [imaging]
-  quality = 82
   resampleFilter = "Lanczos"
+  [imaging.jpeg]
+    quality = 82
+  [imaging.webp]
+    quality = 82
   [imaging.exif]
     disableLatLong = true
 
