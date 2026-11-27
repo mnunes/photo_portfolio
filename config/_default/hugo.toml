@@ -14,6 +14,8 @@ ignoreFiles = ["_modelo\\.md$"]
 [params]
   # Fonte dos títulos: "garamond" (serifada) | "inter" | "instrument" | "manrope" (sem serifa)
   tipografia = "garamond"
+  # Fonte do texto (corpo, menu, legendas): "hanken" | "schibsted" | "instrument" | "figtree" | "manrope" | "inter"
+  tipografia_texto = "hanken"
   description = "Fotografia de Marcus Nunes — paisagem, rua e ensaios em preto e branco."
   email = "marcus.nunes@gmail.com"
   website = "https://marcusnunes.me"

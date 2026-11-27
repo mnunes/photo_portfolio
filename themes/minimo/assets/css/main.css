@@ -7,7 +7,7 @@
   --linha: #d8d1c5;
   --acento: #9a5b3c;
   --serif: "EB Garamond", Garamond, "Times New Roman", serif;
-  --sans: "Inter", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
+  --sans: "Hanken Grotesk", "Helvetica Neue", Helvetica, Arial, system-ui, sans-serif;
   --margem: clamp(1.25rem, 5vw, 4rem);
   --largura: 1320px;
   --coluna: 1000px;
