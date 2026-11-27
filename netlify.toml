@@ -1,0 +1,6 @@
+# Deploy automático: a cada push na branch main a Netlify publica a pasta public/.
+# A pasta public/ é gerada localmente com `hugo --gc --cleanDestinationDir` e
+# vai no commit; assim a Netlify não precisa reprocessar as imagens.
+[build]
+  publish = "public"
+  command = "echo 'Publicando public/ gerada localmente'"
