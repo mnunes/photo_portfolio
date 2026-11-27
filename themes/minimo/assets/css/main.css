@@ -186,8 +186,15 @@ h3 { font-size: 1.35rem; }
 .prosa { max-width: 40rem; margin: 0 auto; font-size: 1.05rem; line-height: 1.8; }
 .prosa h1 { margin-bottom: 2.5rem; }
 .prosa > p:first-of-type { font-family: var(--serif); font-size: 1.3rem; line-height: 1.5; }
-.prosa a { border-bottom: 1px solid var(--linha); }
-.prosa a:hover { border-color: var(--acento); }
+.prosa p a {
+  color: var(--acento);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--acento) 45%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+.prosa p a:hover { color: var(--texto); text-decoration-color: currentColor; text-decoration-thickness: 2px; }
 .prosa p { margin: 0 0 1.3em; }
 
 .prosa .social { list-style: none; display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 3rem 0 0; padding: 2rem 0 0; border-top: 1px solid var(--linha); }
