@@ -4,7 +4,7 @@ rss_ignore: true
 title: Sobre
 menu:
   main:
-    weight: 90
+    weight: 15
 ---
 
 Marcus Nunes é fotógrafo e pesquisador da imagem, interessado nas relações entre fotografia, tempo e experiência cotidiana. Seu trabalho parte do olhar para aquilo que muitas vezes passa despercebido: paisagens, cenas urbanas, gestos e vestígios que revelam histórias e afetos. Em sua produção, explora temas como memória, nostalgia, impermanência, cotidiano e pertencimento, buscando na fotografia uma forma de preservar aquilo que está em constante transformação. Suas imagens transitam entre a observação documental e a abordagem experimental, construindo narrativas sobre lugares, pessoas e experiências que habitam a memória. Seu portfólio reúne trabalhos fotografia de rua e paisagem, revelando um interesse particular pela passagem do tempo e pelas marcas que ela deixa nos espaços e nas pessoas.
