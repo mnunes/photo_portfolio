@@ -28,16 +28,26 @@
 
   {{- if $projeto }}
     {{- $irmaos := (site.GetPage "/projetos").Pages.ByWeight }}
-    {{- $prox := or ($irmaos.Next .) (index $irmaos 0) }}
-    <nav class="proximo" aria-label="Próximo projeto">
-      <a href="{{ $prox.RelPermalink }}">
-        <span class="rotulo">Próximo projeto</span>
-        <span class="titulo">{{ $prox.Title }} <span aria-hidden="true">→</span></span>
-        <span class="sub">{{ $prox.Params.subtitulo }}</span>
-        {{- with partial "capa.html" $prox }}
-        {{ partial "img.html" (dict "img" . "recorte" "3x1" "larguras" (slice 800 1400 2000) "alt" "" "sizes" "(min-width: 1100px) 1000px, 100vw") }}
+    {{- /* Mesma ordem da página inicial (weight); circula nas pontas. */}}
+    {{- $n := len $irmaos }}
+    {{- $pos := 0 }}
+    {{- range $i, $p := $irmaos }}{{ if eq $p.RelPermalink $.RelPermalink }}{{ $pos = $i }}{{ end }}{{ end }}
+    {{- $ant := index $irmaos (mod (add $pos (sub $n 1)) $n) }}
+    {{- $prox := index $irmaos (mod (add $pos 1) $n) }}
+    <nav class="proximo" aria-label="Navegação entre projetos">
+      <div class="vizinhos">
+        {{- range slice (dict "p" $ant "rotulo" "Projeto anterior" "classe" "anterior") (dict "p" $prox "rotulo" "Próximo projeto" "classe" "seguinte") }}
+        {{- $p := .p }}
+        <a class="{{ .classe }}" href="{{ $p.RelPermalink }}" rel="{{ cond (eq .classe "anterior") "prev" "next" }}">
+          <span class="rotulo">{{ .rotulo }}</span>
+          <span class="titulo">{{ if eq .classe "anterior" }}<span aria-hidden="true">←</span> {{ end }}{{ $p.Title }}{{ if eq .classe "seguinte" }} <span aria-hidden="true">→</span>{{ end }}</span>
+          <span class="sub">{{ $p.Params.subtitulo }}</span>
+          {{- with partial "capa.html" $p }}
+          {{ partial "img.html" (dict "img" . "recorte" "3x2" "larguras" (slice 600 1000 1400) "alt" "" "sizes" "(min-width: 1100px) 500px, (min-width: 700px) 50vw, 100vw") }}
+          {{- end }}
+        </a>
         {{- end }}
-      </a>
+      </div>
       <p class="voltar"><a href="{{ "/" | relURL }}">Todos os projetos</a></p>
     </nav>
   {{- else }}

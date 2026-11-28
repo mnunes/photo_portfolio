@@ -148,14 +148,16 @@ h3 { font-size: 1.35rem; }
 
 /* ---------- Próximo projeto ---------- */
 .proximo { max-width: var(--coluna); margin: 8rem auto 0; padding-top: 2.5rem; border-top: 1px solid var(--linha); }
-.proximo > a { display: grid; gap: 0.3rem; }
-.proximo > a:hover { color: inherit; }
+.proximo .vizinhos { display: grid; gap: 3.5rem 2.5rem; }
+@media (min-width: 700px) { .proximo .vizinhos { grid-template-columns: 1fr 1fr; } .proximo .seguinte { text-align: right; } }
+.proximo .vizinhos > a { display: grid; gap: 0.3rem; align-content: start; }
+.proximo .vizinhos > a:hover { color: inherit; }
 .proximo .rotulo { margin: 0; }
-.proximo .titulo { font-family: var(--serif); font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1.05; transition: color 0.2s ease; }
-.proximo > a:hover .titulo { color: var(--acento); }
+.proximo .titulo { font-family: var(--serif); font-size: clamp(1.8rem, 3.6vw, 2.6rem); line-height: 1.05; transition: color 0.2s ease; }
+.proximo .vizinhos > a:hover .titulo { color: var(--acento); }
 .proximo .sub { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--suave); margin-bottom: 1.5rem; }
-.proximo img { width: 100%; aspect-ratio: 3 / 1; object-fit: cover; opacity: 0.92; transition: opacity 0.4s ease; }
-.proximo > a:hover img { opacity: 1; }
+.proximo img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; opacity: 0.92; transition: opacity 0.4s ease; }
+.proximo .vizinhos > a:hover img { opacity: 1; }
 .voltar { margin: 1.75rem 0 0; font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--suave); }
 
 /* ---------- Arquivo ---------- */
@@ -216,7 +218,7 @@ h3 { font-size: 1.35rem; }
 .titulos-sans .intro p { font-size: clamp(1.5rem, 3vw, 2.25rem); line-height: 1.2; }
 .titulos-sans .grade .titulo { font-size: 1.45rem; }
 .titulos-sans .destaque .titulo { font-size: clamp(1.8rem, 3.5vw, 2.4rem); }
-.titulos-sans .proximo .titulo { font-size: clamp(1.9rem, 4.4vw, 3rem); }
+.titulos-sans .proximo .titulo { font-size: clamp(1.6rem, 3.2vw, 2.3rem); }
 .titulos-sans .albuns li a { font-size: 1.1rem; letter-spacing: -0.01em; }
 .titulos-sans .prosa > p:first-of-type { font-size: 1.2rem; letter-spacing: -0.01em; }
 
